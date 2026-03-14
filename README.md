@@ -10,4 +10,5 @@ Choose one of "caesar", "segment", "xor" or "dummy"
 After that choose password (any string), encode or decode and message
 That's all I wanted to say
 
-А теперь анекдот
+А теперь анекдот:
+Надевает мужик шляпу, а она ему КАК РАЗ
