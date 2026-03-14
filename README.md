@@ -1,20 +1,25 @@
 # Docer_lab
 This Dockerfile runs C++ project of Cryptographer
 
-
-Docker build - default, docker run - else default
-
-
+<br>
+Docker build - default, docker run - also default
+<br>
+<br>
 After run here must message:
+
 ```bash
 Enter method of Cryptographer:
 ```
+
 Choose one of "caesar", "segment", "xor" or "dummy"
-
-
+<br>
+<br>
 After that choose password (any string), encode or decode and message
+<br>
+<br>
 That's all I wanted to say
-
+<br>
+<br>
 Example of usage:
 ```bash
 Enter method of Cryptographer: caesar
@@ -25,7 +30,9 @@ Enter message: Linuuuuuux
 Encrypted message:
 E2FF040B0B0B0B0B0B0E
 ```
-
+<br>
+<br>
+<br>
 А теперь анекдот:
 
 Надевает мужик шляпу, а она ему КАК РАЗ
