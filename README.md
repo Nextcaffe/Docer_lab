@@ -1,4 +1,7 @@
 # Docer_lab
+This Dockerfile runs C++ project of Cryptographer
+
+
 Docker build - default, docker run - else default
 
 
