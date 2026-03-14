@@ -5,7 +5,7 @@ This Dockerfile runs C++ project of Cryptographer
 Docker build - default, docker run - also default
 <br>
 <br>
-After run here must message:
+After run here must be message:
 
 ```bash
 Enter method of Cryptographer:
